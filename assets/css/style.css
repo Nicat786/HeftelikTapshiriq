@@ -1,0 +1,167 @@
+#header {
+  height: 126px;
+  background-color: #E5EEF0; }
+  #header .row:first-child {
+    height: 50px; }
+    #header .row:first-child p {
+      font-size: 13px;
+      color: #93a1a7;
+      margin-top: 19px; }
+
+#banner {
+  background-color: #8D8D8D;
+  height: 310px; }
+  #banner h3 {
+    margin-top: 125px;
+    inline-height: 15px;
+    color: white;
+    font-size: 30px; }
+  #banner h4 {
+    margin-top: 125px;
+    color: white;
+    font-size: 48px; }
+  #banner .col-md-6 {
+    text-align: center; }
+  #banner h2 {
+    inline-height: 15px;
+    font-size: 14px;
+    color: white; }
+
+#whatWeAre {
+  height: 495px; }
+  #whatWeAre h4 {
+    margin-top: 55px;
+    font-weight: bold;
+    font-size: 30px; }
+  #whatWeAre h5 {
+    inline-height: 15px;
+    font-size: 18px; }
+  #whatWeAre p {
+    font-size: 14px;
+    inline-height: 15; }
+  #whatWeAre .second {
+    margin-left: 20px; }
+  #whatWeAre .row {
+    margin-top: 45px; }
+
+#funFact {
+  height: 219px; }
+  #funFact img {
+    text-align: center;
+    margin-top: 73px; }
+  #funFact h3 {
+    margin-top: 73px;
+    font-size: 60px;
+    font-weight: bold; }
+  #funFact p {
+    font-size: 14px;
+    line-height: 13px; }
+
+#team {
+  background-color: #E5EEF0;
+  height: 672px; }
+  #team .col-md-12 {
+    margin-top: 98px; }
+    #team .col-md-12 h3 {
+      font-weight: bold;
+      font-size: 29.98px; }
+    #team .col-md-12 p {
+      font-size: 17.99px; }
+  #team .thumbnail {
+    height: 398px;
+    padding: 0; }
+    #team .thumbnail img {
+      height: 277px;
+      background-color: #8D8D8D; }
+    #team .thumbnail caption {
+      height: 122px; }
+    #team .thumbnail h4 {
+      font-size: 13.99px; }
+    #team .thumbnail h1 {
+      font-size: 13.99px;
+      color: #f69b37;
+      line-height: 10px;
+      margin: 0; }
+    #team .thumbnail p {
+      margin-top: 15px;
+      color: #adbdc1; }
+      #team .thumbnail p i {
+        margin-right: 12px; }
+
+#features {
+  height: 667px; }
+  #features h1 {
+    font-size: 29.99;
+    margin-top: 99px; }
+  #features h4 {
+    font-size: 17.99; }
+  #features img {
+    margin-top: 62px; }
+  #features h3 {
+    margin-top: 62px;
+    font-size: 19.99px; }
+  #features p {
+    font-size: 13.99px; }
+  #features .btn {
+    margin-top: 77px;
+    background-color: #29c2e1;
+    font-size: 14.49px;
+    border-radius: 50px;
+    border: none; }
+
+#freeServices {
+  height: 314px;
+  text-align: center; }
+  #freeServices h3 {
+    margin-top: 98px;
+    font-size: 30px; }
+    #freeServices h3 span {
+      color: #f69b37; }
+  #freeServices h2 {
+    font-size: 13px;
+    color: #59686c; }
+  #freeServices .col-md-4 button {
+    border: none;
+    border-radius: 50px;
+    margin-top: 33px; }
+    #freeServices .col-md-4 button:first-child {
+      background-color: #29C2E1;
+      margin-right: 3px;
+      font-size: 14.5px;
+      padding: 10px 39px 10px 41px; }
+    #freeServices .col-md-4 button:last-child {
+      background-color: #F69B37;
+      margin-left: 3px;
+      font-size: 14.5px;
+      padding: 10px 25px; }
+
+#footer {
+  height: 427px; }
+  #footer .main {
+    height: 319px;
+    margin-top: 77px; }
+    #footer .main span {
+      font-size: 18px; }
+    #footer .main ul li {
+      color: #93a1a7;
+      line-height: 29px;
+      font-size: 14px; }
+      #footer .main ul li p {
+        color: #adbdc1; }
+        #footer .main ul li p i {
+          margin-right: 8px; }
+  #footer .color span {
+    color: black;
+    font-size: 14px; }
+  #footer .form-control {
+    width: 220px;
+    height: 42px;
+    margin-right: 0px; }
+  #footer .btn {
+    width: 42px;
+    height: 42px;
+    margin-left: 0px;
+    color: white;
+    background-color: #29C2E1; }
+
+/*# sourceMappingURL=style.css.map */
