@@ -3,18 +3,46 @@
 
 
 #header {
-	height:126px;
+	height:50px;
 	background-color:#E5EEF0;
 	.row:first-child{
-		height: 50px;
 		p{
 			font-size: 13px;
 			color:#93a1a7;
-			margin-top: 19px;
-		}
+			margin: 19px -15px 0 0;
 
+		}
 	}
 }
+
+
+
+
+#toolbar {
+		height: 76px;	
+	.navbar-header{
+		img{
+			margin:8px -15px 0 -15px;
+			
+		}}
+	
+	.nav-pills{
+		margin-top: 18px;
+		
+			li{
+				padding:7px 7px;
+			}
+			a{
+				color:#93a1a7;}
+
+			a:hover{
+				background-color:#29C2E1;
+				border-radius:50px;
+				color: white;}}
+}
+
+
+
 #banner{
 	background-color:#8D8D8D;
 	height:310px;
@@ -187,7 +215,12 @@
 	}
 }
 #footer{
-	height:427px;
+	height:317px;
+	background-image: url(../image/orange_background.png);
+	background-repeat:no-repeat;
+	background-position-y:bottom;
+	background-size:11%;
+
 		.main{
 			height: 319px;
 			margin-top: 77px;
@@ -230,3 +263,18 @@
 			background-color:#29C2E1;
 		}
 	}
+
+#underFooter{
+	height:109px;
+	background-image: url(../image/blue_background.png);
+	background-repeat:no-repeat;
+	background-position:right;
+	background-size:12%;
+
+	p{
+		margin-top: 23px;
+		text-align: center;
+		color:#93a1a7;
+		font-size: 14px;
+	}
+}
